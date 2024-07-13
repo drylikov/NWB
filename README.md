@@ -171,22 +171,4 @@ cd my-module/
 
 **Flexible**. While everything works out of the box, you can also use an optional [configuration file](/docs/Configuration.md#configuration-file) to tweak things to your liking.
 
-**Manages key development dependencies and configuration for you**. Check out an [example of the effect using nwb had](https://github.com/insin/react-yelp-clone/compare/master...nwb) on the amount of `devDependencies` and configuration to be managed in a real project it was dropped into.
-
-## MIT Licensed
-
-*Cover image created by [GeorgioWan](https://github.com/GeorgioWan)*
-
-*Operating system icons created with [Icons8](https://icons8.com/)*
-
-[travis-badge]: https://img.shields.io/travis/insin/nwb/master.png?style=flat-square
-[travis]: https://travis-ci.org/insin/nwb
-
-[appveyor-badge]: https://img.shields.io/appveyor/ci/insin/nwb/master.png?style=flat-square
-[appveyor]: https://ci.appveyor.com/project/insin/nwb
-
-[npm-badge]: https://img.shields.io/npm/v/nwb.png?style=flat-square
-[npm]: https://www.npmjs.org/package/nwb
-
-[coveralls-badge]: https://img.shields.io/coveralls/insin/nwb/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/insin/nwb
+**Manages key development dependencies and configuration for you**. 
