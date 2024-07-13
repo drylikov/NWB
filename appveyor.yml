@@ -1,0 +1,21 @@
+branches:
+  only:
+  - master
+  - next
+
+environment:
+  matrix:
+  - nodejs_version: "12"
+
+install:
+  - ps: Install-Product node $env:nodejs_version x64
+  - npm install
+
+test_script:
+  - git config --global user.email "jonathan.buchanan@gmail.com"
+  - git config --global user.name "Jonny Buchanan"
+  - node --version
+  - npm --version
+  - npm run test:coverage
+
+build: off

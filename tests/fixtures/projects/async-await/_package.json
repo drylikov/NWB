@@ -1,0 +1,9 @@
+{
+  "name": "async-await-project",
+  "version": "1.0.0",
+  "description": "test project",
+  "dependencies": {
+    "react": "16.x",
+    "react-dom": "16.x"
+  }
+}
