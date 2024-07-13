@@ -1,9 +1,4 @@
-# nwb
-
-![Linux](resources/linux.png) [![Travis][travis-badge]][travis]
-![Windows](resources/windows.png) [![Appveyor][appveyor-badge]][appveyor]
-[![npm package][npm-badge]][npm]
-[![Coveralls][coveralls-badge]][coveralls]
+# NWB
 
 ![nwb](resources/cover.jpg)
 
